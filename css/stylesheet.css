@@ -1,0 +1,16 @@
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(165, 135, 187, 0.863);
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    display: inline-block;
+    margin: 20px 15px;
+}
+#mySignature
+{
+    width: 400px;
+    height: 100px;
+}
